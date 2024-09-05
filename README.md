@@ -18,7 +18,4 @@ After that simply run
 All the scraped proxies can be found in list.txt
 
 All the google passed proxies can be found in results.txt
-## Feedback
-
-If you have any feedback or encountered any errors contact me on discord: dotstarguy
 
